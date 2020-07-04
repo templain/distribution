@@ -28,7 +28,7 @@ require (
 	github.com/marstr/guid v1.1.0 // indirect
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/mitchellh/osext v0.0.0-20151018003038-5e2d6d41470f // indirect
-	github.com/templain/swift
+	github.com/ncw/swift v1.0.52 // indirect
 	github.com/opencontainers/go-digest v1.0.0-rc1
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/satori/go.uuid v1.2.0 // indirect
@@ -36,6 +36,7 @@ require (
 	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a // indirect
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/pflag v1.0.3 // indirect
+	github.com/templain/swift v0.0.0-20200704052340-ab77f4b5db9d
 	github.com/yvasiyarov/go-metrics v0.0.0-20140926110328-57bccd1ccd43 // indirect
 	github.com/yvasiyarov/gorelic v0.0.0-20141212073537-a9bba5b9ab50
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20140908184405-b21fdbd4370f // indirect
